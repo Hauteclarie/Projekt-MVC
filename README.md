@@ -6,13 +6,13 @@ Zawartość projektu aplikacji pogodowej:
   <li>Plik history_model.py - Przygotowany w celu rozwoju aplikacji o dalsze funkcje, zawiera kod tworzący i zapisujący listę   
   wyszukiwanych miast.</li>
 </ul>
-##
-Funkconalność aplikacji:
+
+Funkconalność aplikacji:<br>
 <ul>
   <li>Tryb ciemny oraz jasny dla interfejsu graficznego.</li>
   <li>Lista domyślnych maiast do wyboru.</li>
   <li>Możliwość ręcznego wpisania dowolnego miasta nie zawartego w liście.(Poprawność pisowni jest istotna!)</li>
   <li>Wyświetlanie parametrów pogodowych.(temperatura, prędkość wiatru, wilgotność, szansa na opady)</li>
 </ul>
-##
+
   
