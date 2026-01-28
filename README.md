@@ -15,4 +15,11 @@ Funkconalność aplikacji:<br>
   <li>Wyświetlanie parametrów pogodowych.(temperatura, prędkość wiatru, wilgotność, szansa na opady)</li>
 </ul>
 
+Wykorzystane technologie:<br>
+<ul>
+  <li>Język programowania: Python 3.</li>
+  <li>Interfejs graficzny: biblioteka tkinter.</li>
+  <li>API danych pogodowych: openweather.</li>
+</ul>
+
   
